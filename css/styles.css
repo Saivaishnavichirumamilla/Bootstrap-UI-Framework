@@ -24,3 +24,10 @@
     margin:0px;
     color:#0f0f0f;
 }
+body{
+    padding:50px 0px 0px 0px  /* for not allowing navigation bar to cover jumbotron just have a padding in the body*/
+    z-index:0;
+}
+.navbar-dark{
+    background-color: #512DA8;
+}
